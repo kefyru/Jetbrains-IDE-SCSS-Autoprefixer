@@ -8,4 +8,4 @@ npm install -g sass postcss-cli autoprefixer
 2. Go to `Preferences` -> `Tools` -> `File watchers`
 3. Add SCSS wathcer:
 
-![Image 1] (1.png?raw=true)
+![Image 1] (./1.png?raw=true)
