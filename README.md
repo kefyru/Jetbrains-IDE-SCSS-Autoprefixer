@@ -9,4 +9,4 @@ npm install -g sass postcss-cli autoprefixer
 3. Add SCSS wathcer:
 
 ![Image 1]
-(./1.png)
+(1.png)
